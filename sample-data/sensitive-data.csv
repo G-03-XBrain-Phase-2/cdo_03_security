@@ -1,0 +1,4 @@
+id,name,email,credit_card,ssn,phone
+1,John Doe,john.doe@example.com,4111111111111111,000-12-3456,+1-555-0199
+2,Jane Smith,jane.smith@example.com,5555555555554444,999-99-9999,+1-555-0100
+3,Alice Johnson,alice.j@example.com,378282246310005,111-22-3333,+1-555-0123
